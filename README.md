@@ -1,3 +1,5 @@
+# 오픈소스SW 과제2 README파일 작성하기
+
 - 👋 Hi, I’m @zezroya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -7,13 +9,13 @@
 - ⚡ Fun fact: ...
 
 
-# 오픈소스SW 과제2 README파일 작성하기
+
 
 | 오픈소스SW 과제2 README파일 작성하기 |
 |--------------------------------------|
 | top, ps, jobs, kill 명령어 조사하기  |
 | 다양한 Markdown 기능을 활용해보기   |
-
+| 다양한 Markdown 기능을 활용해보기   |
 
 
 
